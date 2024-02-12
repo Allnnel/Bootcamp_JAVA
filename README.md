@@ -78,16 +78,27 @@ $ java Program
 -> AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAASSSSSSSSSSSSSSSSSSSSSSSSDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDWEWWKFKKDKKDSKAKLSLDKSKALLLLLLLLLLRTRTETWTWWWWWWWWWWOOOOOOO42
 
 36
+
 \#  35
+
 \#   \#
+
 \#   \#  27
+
 \#   \#   \#
+
 \#   \#   \#
+
 \#   \#   \#
+
 \#   \#   \#  14  12
+
 \#   \#   \#   \#   \#   9
+
 \#   \#   \#   \#   \#   \#   7   4
+
 \#   \#   \#   \#   \#   \#   \#   \#   2   2
+
   D     A     S     W     L     K     O     T     E     R
 
 
