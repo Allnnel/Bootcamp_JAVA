@@ -1,0 +1,9 @@
+
+DROP TABLE service.users CASCADE;
+DROP SCHEMA IF EXISTS service;
+CREATE SCHEMA IF NOT EXISTS service;
+CREATE TABLE IF NOT EXISTS service.users (
+    id SERIAL PRIMARY KEY,
+    email VARCHAR(40) UNIQUE
+);
+
